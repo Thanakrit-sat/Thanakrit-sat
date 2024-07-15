@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thanakrit Satthabun</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/Thanakrit-sat/thanakritProfile/main/Thanakrit-banner.png"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Thanakrit-sat/Thanakrit-sat/main/Thanakrit-banner.png"> </div>
 <h3 align="center">A passionate backend developer from Thailand</h3>
 <img align="right" alt="Beaming Face with Smiling Eyes" width="120" src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png">
 
